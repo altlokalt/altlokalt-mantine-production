@@ -1,8 +1,0 @@
-[{
-        "relation": ["delegate_permission/common.handle_all_urls"],
-        "target" : { "namespace": "android_app", "package_name": "com.altlokalt.twa",
-                     "sha256_cert_fingerprints": [
-                             "8E:6A:BD:23:1C:90:05:C6:C1:E7:6D:D1:C6:66:E4:51:D1:A8:46:9B:F3:07:75:AD:26:1A:23:30:37:0F:E8:DE",
-                              "FA:4F:2B:51:4A:4F:2E:8E:83:37:D5:B0:4C:63:19:C7:3A:C0:52:0B:71:B5:DE:64:84:07:6C:26:72:51:59:79"] }
-      }
-]
